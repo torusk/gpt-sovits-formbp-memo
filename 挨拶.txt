@@ -1,0 +1,39 @@
+こんにちは。
+これは音声合成のテスト録音です。
+今、MacBookを使って自分の声をAIに学習させています。
+
+普段はポッドキャストを配信しているのですが、毎回オープニングを取り直すのが大変なんですよね。
+そこでこの技術を使って、英語や中国語のナレーションを自分で作れたら便利だなと考えています。
+
+今日の天気は晴れ、気温は過ごしやすい感じです。
+技術の進歩は本当に早いですね。
+2年前には企業しかできなかったことが、今では個人のパソコンで動かせるなんて驚きです。
+
+ああ、えっと、テスト、テスト。
+マイクの調子はどうでしょうか。
+高い声も出してみます。こんにちは。
+低い声も出してみます。こんばんは。
+
+これくらいのデータ量があれば、うまく学習できるはずです。
+それでは、よろしくお願いします。
+
+大家好。这是一段语音合成的测试录音。我现在正用 MacBook 让 AI 学习我的声音。我平时在做播客，但每次都要重新录制开场白，感觉挺辛苦的。所以我想，如果能用这项技术，由自己来制作英语或中文的旁白，那就太方便了。今天的运气很好，天气晴朗，气温也很舒服。技术的进步真是太快了，两年前还只有企业能做到的事情，现在个人电脑就能搞定，真是让人惊讶。啊，喂喂，测试测试，麦克风状态怎么样？我也试着发出了高音和低音。如果有这么多的数据量，应该能学得很好。那么，就拜托大家了。
+
+Hello.
+This is a test recording for speech synthesis.
+Right now, I’m using a MacBook to train an AI on my own voice.
+
+I usually run a podcast, but re-recording the opening every single time is a real hassle.
+So I’m thinking it would be really convenient if I could use this technology to create my own narration in English or Chinese.
+
+Today’s weather is sunny, and the temperature feels quite comfortable.
+The pace of technological progress is truly fast.
+It’s amazing that things only companies could do two years ago can now run on a personal computer.
+
+Uh, well, test, test.
+How does the microphone sound?
+I’ll try speaking in a higher voice. Hello.
+Now I’ll try a lower voice. Good evening.
+
+With this amount of data, the model should be able to learn properly.
+All right then, thank you very much.
